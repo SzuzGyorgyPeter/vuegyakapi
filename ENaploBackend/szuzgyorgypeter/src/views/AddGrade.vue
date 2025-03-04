@@ -3,9 +3,9 @@
 </template>
 
 <script>
-  export  default {
-    name: 'HomeView'
-  }
+export  default {
+  name: 'AddGrade'
+}
 </script>
 
 <style scoped>
